@@ -1,0 +1,15 @@
+c:\POC\Projects\OrderHold\Dell.OrderHold.Rest\Dell.OrderHold.Domain\bin\Debug\Dell.OrderHold.Domain.dll
+c:\POC\Projects\OrderHold\Dell.OrderHold.Rest\Dell.OrderHold.Domain\bin\Debug\Dell.OrderHold.Domain.pdb
+c:\POC\Projects\OrderHold\Dell.OrderHold.Rest\Dell.OrderHold.Domain\obj\Debug\Dell.OrderHold.Domain.dll
+c:\POC\Projects\OrderHold\Dell.OrderHold.Rest\Dell.OrderHold.Domain\obj\Debug\Dell.OrderHold.Domain.pdb
+C:\POC\Projects\OrderHold\Dell.OrderHold.Rest\Dell.OrderHold.Domain\bin\Debug\Dell.OrderHold.Infrastructure.dll
+C:\POC\Projects\OrderHold\Dell.OrderHold.Rest\Dell.OrderHold.Domain\bin\Debug\Dell.OrderHold.Model.dll
+C:\POC\Projects\OrderHold\Dell.OrderHold.Rest\Dell.OrderHold.Domain\bin\Debug\Dell.OrderHold.Repository.dll
+C:\POC\Projects\OrderHold\Dell.OrderHold.Rest\Dell.OrderHold.Domain\bin\Debug\Dell.OrderHold.Infrastructure.pdb
+C:\POC\Projects\OrderHold\Dell.OrderHold.Rest\Dell.OrderHold.Domain\bin\Debug\Dell.OrderHold.Model.pdb
+C:\POC\Projects\OrderHold\Dell.OrderHold.Rest\Dell.OrderHold.Domain\bin\Debug\Dell.OrderHold.Repository.pdb
+C:\POC\Projects\OrderHold\Dell.OrderHold.Rest\Dell.OrderHold.Domain\obj\Debug\Dell.OrderHold.Domain.csprojResolveAssemblyReference.cache
+C:\POC\Projects\OrderHold\Dell.OrderHold.Rest\Dell.OrderHold.Domain\bin\Debug\NLog.dll
+C:\POC\Projects\OrderHold\Dell.OrderHold.Rest\Dell.OrderHold.Domain\bin\Debug\Newtonsoft.Json.dll
+C:\POC\Projects\OrderHold\Dell.OrderHold.Rest\Dell.OrderHold.Domain\bin\Debug\NLog.xml
+C:\POC\Projects\OrderHold\Dell.OrderHold.Rest\Dell.OrderHold.Domain\bin\Debug\Newtonsoft.Json.xml

@@ -1,0 +1,9 @@
+c:\POC\Projects\OrderHold\Dell.OrderHold.Rest\Dell.OrderHold.Infrastructure\bin\Debug\Dell.OrderHold.Infrastructure.dll
+c:\POC\Projects\OrderHold\Dell.OrderHold.Rest\Dell.OrderHold.Infrastructure\bin\Debug\Dell.OrderHold.Infrastructure.pdb
+c:\POC\Projects\OrderHold\Dell.OrderHold.Rest\Dell.OrderHold.Infrastructure\obj\Debug\Dell.OrderHold.Infrastructure.dll
+c:\POC\Projects\OrderHold\Dell.OrderHold.Rest\Dell.OrderHold.Infrastructure\obj\Debug\Dell.OrderHold.Infrastructure.pdb
+C:\POC\Projects\OrderHold\Dell.OrderHold.Rest\Dell.OrderHold.Infrastructure\bin\Debug\Newtonsoft.Json.dll
+C:\POC\Projects\OrderHold\Dell.OrderHold.Rest\Dell.OrderHold.Infrastructure\bin\Debug\NLog.dll
+C:\POC\Projects\OrderHold\Dell.OrderHold.Rest\Dell.OrderHold.Infrastructure\bin\Debug\Newtonsoft.Json.xml
+C:\POC\Projects\OrderHold\Dell.OrderHold.Rest\Dell.OrderHold.Infrastructure\bin\Debug\NLog.xml
+C:\POC\Projects\OrderHold\Dell.OrderHold.Rest\Dell.OrderHold.Infrastructure\obj\Debug\Dell.OrderHold.Infrastructure.csprojResolveAssemblyReference.cache

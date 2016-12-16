@@ -1,0 +1,16 @@
+c:\POC\Projects\OrderHold\Dell.OrderHold.Rest\Dell.OrderHold.Rest\bin\Dell.OrderHold.Rest.dll.config
+c:\POC\Projects\OrderHold\Dell.OrderHold.Rest\Dell.OrderHold.Rest\bin\Dell.OrderHold.Rest.dll
+c:\POC\Projects\OrderHold\Dell.OrderHold.Rest\Dell.OrderHold.Rest\bin\Dell.OrderHold.Rest.pdb
+c:\POC\Projects\OrderHold\Dell.OrderHold.Rest\Dell.OrderHold.Rest\bin\Newtonsoft.Json.dll
+c:\POC\Projects\OrderHold\Dell.OrderHold.Rest\Dell.OrderHold.Rest\bin\System.Net.Http.Formatting.dll
+c:\POC\Projects\OrderHold\Dell.OrderHold.Rest\Dell.OrderHold.Rest\bin\System.Web.Http.dll
+c:\POC\Projects\OrderHold\Dell.OrderHold.Rest\Dell.OrderHold.Rest\bin\System.Web.Http.WebHost.dll
+c:\POC\Projects\OrderHold\Dell.OrderHold.Rest\Dell.OrderHold.Rest\bin\Newtonsoft.Json.xml
+c:\POC\Projects\OrderHold\Dell.OrderHold.Rest\Dell.OrderHold.Rest\bin\System.Net.Http.Formatting.xml
+c:\POC\Projects\OrderHold\Dell.OrderHold.Rest\Dell.OrderHold.Rest\bin\System.Web.Http.xml
+c:\POC\Projects\OrderHold\Dell.OrderHold.Rest\Dell.OrderHold.Rest\bin\System.Web.Http.WebHost.xml
+c:\POC\Projects\OrderHold\Dell.OrderHold.Rest\Dell.OrderHold.Rest\obj\Debug\Dell.OrderHold.Rest.csprojResolveAssemblyReference.cache
+c:\POC\Projects\OrderHold\Dell.OrderHold.Rest\Dell.OrderHold.Rest\obj\Debug\Dell.OrderHold.Rest.dll
+c:\POC\Projects\OrderHold\Dell.OrderHold.Rest\Dell.OrderHold.Rest\obj\Debug\Dell.OrderHold.Rest.pdb
+C:\POC\Projects\OrderHold\Dell.OrderHold.Rest\Dell.OrderHold.Rest\bin\Dell.OrderHold.Model.dll
+C:\POC\Projects\OrderHold\Dell.OrderHold.Rest\Dell.OrderHold.Rest\bin\Dell.OrderHold.Model.pdb

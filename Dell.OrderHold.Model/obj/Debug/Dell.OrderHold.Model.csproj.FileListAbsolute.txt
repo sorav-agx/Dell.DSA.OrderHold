@@ -1,0 +1,5 @@
+C:\POC\Projects\OrderHold\Dell.OrderHold.Rest\Dell.OrderHold.Model\bin\Debug\Dell.OrderHold.Model.dll
+C:\POC\Projects\OrderHold\Dell.OrderHold.Rest\Dell.OrderHold.Model\bin\Debug\Dell.OrderHold.Model.pdb
+C:\POC\Projects\OrderHold\Dell.OrderHold.Rest\Dell.OrderHold.Model\obj\Debug\Dell.OrderHold.Model.csprojResolveAssemblyReference.cache
+C:\POC\Projects\OrderHold\Dell.OrderHold.Rest\Dell.OrderHold.Model\obj\Debug\Dell.OrderHold.Model.dll
+C:\POC\Projects\OrderHold\Dell.OrderHold.Rest\Dell.OrderHold.Model\obj\Debug\Dell.OrderHold.Model.pdb
